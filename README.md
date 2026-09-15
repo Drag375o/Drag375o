@@ -6,7 +6,7 @@
   ════════════════════════════════════════════════════════════
 -->
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDh3czVwMWhhMWh5Zmhnd3MxbDJ6bXo0OHd1ZjZqaXlpZ3AycXdscSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Nx0rz3jtxtEre/giphy.gif" width="380" alt="welcome"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemV2NXA2cGQ1OTZpenZ3M2U0bjNvZzgxeGc4dGtpcTA5bHpsZDJwbSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/lIzAEoZEn571u/giphy.gif" width="100%" alt="welcome"/>
 
 # Atahar Hossain Piash
 
@@ -129,46 +129,41 @@ public class AtaharHossainPiash {
 
 ## 📊 GitHub Activity
 
-<!--
-  Each card is wrapped in <picture> so GitHub serves a dark version in dark mode
-  and a light version in light mode. That's the fix for the cards looking odd at night.
--->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=drag375o&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D0FF&icon_color=00D0FF&text_color=C9D1D9"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=drag375o&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=24292F"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=drag375o&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=drag375o&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=00D0FF&text_color=C9D1D9"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=drag375o&layout=compact&langs_count=6&hide_border=true&bg_color=FFFFFF&title_color=0969DA&text_color=24292F"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drag375o&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
-</picture>
-
-<br/>
+<p>
+  <a href="https://github.com/drag375o?tab=followers"><img src="https://img.shields.io/github/followers/drag375o?style=for-the-badge&logo=github&logoColor=00D0FF&label=Followers&labelColor=0D1117&color=00D0FF" alt="followers"/></a>
+  <a href="https://github.com/drag375o?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=github&logoColor=00D0FF" alt="repositories"/></a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=drag375o&hide_border=true&background=0D1117&ring=00D0FF&fire=00D0FF&stroke=00D0FF&currStreakLabel=00D0FF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E"/>
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=drag375o&hide_border=true&background=FFFFFF&ring=0969DA&fire=0969DA&stroke=0969DA&currStreakLabel=0969DA&currStreakNum=24292F&sideNums=24292F&sideLabels=24292F&dates=57606A"/>
-  <img height="160" src="https://streak-stats.demolab.com?user=drag375o&hide_border=true" alt="Contribution streak"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=drag375o&hide_border=true" alt="Contribution streak"/>
 </picture>
 
 <!--
-  OPTIONAL EXTRAS — both removed to keep this section clean.
-  Uncomment either one if you want it back.
+  ── Why the stats / top-languages cards are gone ──────────────────────────
+  They came from github-readme-stats.vercel.app, which is the single most
+  hammered README service on GitHub. It regularly exceeds the GitHub API rate
+  limit and serves an error or nothing at all — that's the broken-image icon
+  you saw. The streak card above is a different service and is holding up fine.
 
-  Contribution graph (a wide line chart of the last ~31 days):
+  If you want those two cards back reliably, host your own copy — it takes
+  about ten minutes and then the rate limit is yours alone:
+    1. Fork  github.com/anuraghazra/github-readme-stats
+    2. Deploy the fork to Vercel (free)
+    3. Add an env var PAT_1 = a GitHub personal access token (no scopes needed)
+    4. Swap github-readme-stats.vercel.app below for your-project.vercel.app
+       and uncomment.
+
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=drag375o&hide_border=true&bg_color=0D1117&color=C9D1D9&line=00D0FF&point=FFFFFF&area=true&area_color=00D0FF&custom_title=Contribution%20Graph"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=drag375o&hide_border=true&bg_color=FFFFFF&color=24292F&line=0969DA&point=1F2328&area=true&area_color=54AEFF&custom_title=Contribution%20Graph"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=drag375o&hide_border=true&theme=github-compact" alt="Activity graph"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=drag375o&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D0FF&icon_color=00D0FF&text_color=C9D1D9"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=drag375o&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=24292F"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=drag375o&show_icons=true&hide_border=true" alt="GitHub stats"/>
   </picture>
-
-  Contribution snake — needs the Platane/snk GitHub Action writing to an "output" branch:
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drag375o/drag375o/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/drag375o/drag375o/output/github-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/drag375o/drag375o/output/github-snake.svg" alt="snake"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=drag375o&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=00D0FF&text_color=C9D1D9"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=drag375o&layout=compact&langs_count=6&hide_border=true&bg_color=FFFFFF&title_color=0969DA&text_color=24292F"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drag375o&layout=compact&hide_border=true" alt="Top languages"/>
   </picture>
 -->
 
