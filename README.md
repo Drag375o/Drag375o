@@ -10,7 +10,7 @@
 
 # Atahar Hossain Piash
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00D0FF&width=560&lines=CSE+student+%26+undergrad+research+assistant;AI+%2F+ML+%7C+NLP+%7C+Computer+Vision+%7C+LLMs;Engineer+by+training%2C+designer+by+habit" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00D0FF&width=560&lines=CSE+student+%26+undergrad+research+assistant;AI+%2F+ML+%7C+NLP+%7C+Computer+Vision+%7C+LLMs;Still+explaining+to+relatives+what+I+study" alt="typing"/>
 
 <img src="https://komarev.com/ghpvc/?username=drag375o&label=Profile+views&color=00D0FF&style=flat-square" alt="profile views"/>
 
@@ -123,7 +123,7 @@ public class AtaharHossainPiash {
   <a href="https://github.com/drag375o?tab=followers"><img src="https://img.shields.io/github/followers/drag375o?style=for-the-badge&logo=github&logoColor=00D0FF&label=Followers&labelColor=0D1117&color=00D0FF" alt="followers"/></a>
   <a href="https://github.com/drag375o?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=github&logoColor=00D0FF" alt="repositories"/></a>
   <a href="mailto:atahar375o@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D0FF" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/atahar-hossain-623b902b4"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D0FF" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/atahar-hossain-623b902b4"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwRDBGRiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg%3D%3D" alt="linkedin"/></a>
 </p>
 
 <picture>
