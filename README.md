@@ -10,19 +10,9 @@
 
 # Atahar Hossain Piash
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00D0FF&width=560&lines=CSE+student+%26+undergrad+research+assistant;AI+%2F+ML+%7C+NLP+%7C+Computer+Vision+%7C+LLMs;Code+by+day%2C+vectors+by+night+%E2%9C%8F%EF%B8%8F" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00D0FF&width=560&lines=CSE+student+%26+undergrad+research+assistant;AI+%2F+ML+%7C+NLP+%7C+Computer+Vision+%7C+LLMs;Engineer+by+training%2C+designer+by+habit" alt="typing"/>
 
 <img src="https://komarev.com/ghpvc/?username=drag375o&label=Profile+views&color=00D0FF&style=flat-square" alt="profile views"/>
-
-<!--
-  SOCIAL BADGES — still missing your handles. Fill them in and uncomment.
-
-<p>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-00D0FF?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="email"/></a>
-  <a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-00D0FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="linkedin"/></a>
-  <a href="https://www.behance.net/YOUR_HANDLE"><img src="https://img.shields.io/badge/Behance-00D0FF?style=for-the-badge&logo=behance&logoColor=0D1117" alt="behance"/></a>
-</p>
--->
 
 ---
 
@@ -132,12 +122,14 @@ public class AtaharHossainPiash {
 <p>
   <a href="https://github.com/drag375o?tab=followers"><img src="https://img.shields.io/github/followers/drag375o?style=for-the-badge&logo=github&logoColor=00D0FF&label=Followers&labelColor=0D1117&color=00D0FF" alt="followers"/></a>
   <a href="https://github.com/drag375o?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=github&logoColor=00D0FF" alt="repositories"/></a>
+  <a href="mailto:atahar375o@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D0FF" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/atahar-hossain-623b902b4"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D0FF" alt="linkedin"/></a>
 </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=drag375o&hide_border=true&background=0D1117&ring=00D0FF&fire=00D0FF&stroke=00D0FF&currStreakLabel=00D0FF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E"/>
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=drag375o&hide_border=true&background=FFFFFF&ring=0969DA&fire=0969DA&stroke=0969DA&currStreakLabel=0969DA&currStreakNum=24292F&sideNums=24292F&sideLabels=24292F&dates=57606A"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=drag375o&hide_border=true" alt="Contribution streak"/>
+  <img height="260" src="https://streak-stats.demolab.com?user=drag375o&hide_border=true" alt="Contribution streak"/>
 </picture>
 
 <!--
