@@ -57,11 +57,11 @@ public class AtaharHossainPiash {
 - 💻 Most at home in **C, C++, Python and Java**
 - 🗄️ Learning to design and query databases with **MySQL**
 - 🎨 Also draw and design — **Illustrator** is my second IDE
-- 💬 Ask me about C, C++, Java, or basic web with HTML & CSS
+- 💬 Ask me about C, C++, Java, Python or Machine learning related topic and algorithms
 
 ---
 
-## 🛠️ Tech Stack:  What I have used till now 
+## 🛠️ Tech Stack: Used till now 
 
 **Languages**
 
