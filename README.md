@@ -126,13 +126,13 @@ public class AtaharHossainPiash {
   <a href="https://www.linkedin.com/in/atahar-hossain-623b902b4"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwRDBGRiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg%3D%3D" alt="linkedin"/></a>
 </p>
 
-<!--
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=drag375o&hide_border=true&background=0D1117&ring=00D0FF&fire=00D0FF&stroke=00D0FF&currStreakLabel=00D0FF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E"/>
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=drag375o&hide_border=true&background=FFFFFF&ring=0969DA&fire=0969DA&stroke=0969DA&currStreakLabel=0969DA&currStreakNum=24292F&sideNums=24292F&sideLabels=24292F&dates=57606A"/>
   <img height="260" src="https://streak-stats.demolab.com?user=drag375o&hide_border=true" alt="Contribution streak"/>
 </picture>
--->
+
 
 
 
@@ -165,4 +165,8 @@ public class AtaharHossainPiash {
 
 ---
 
+<!--
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:00D0FF&height=110&section=footer" width="100%" alt="footer"/>
+
+-->
