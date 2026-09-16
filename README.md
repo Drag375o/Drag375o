@@ -44,7 +44,7 @@ public class AtaharHossainPiash {
     String   currently = "Learning, breaking things, fixing them again";
 
     public static void main(String[] args) {
-        System.out.println("Thanks for dropping by 👋");
+        System.out.println("Thanks for dropping by ");
     }
 }
 ```
