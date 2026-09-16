@@ -55,8 +55,8 @@ public class AtaharHossainPiash {
 
 - 🎓 CSE student from Bangladesh, working through the fundamentals
 - 💻 Most at home in **C, C++, Python and Java**
-- 🗄️ Learning to design and query databases with **MySQL**
-- 🎨 Also draw and design — **Illustrator** is my second IDE
+- 🗄️ Learned to design and query databases with **MySQL**
+- 🎨 Also draw and design ; **Illustrator** is my second IDE
 - 💬 Ask me about C, C++, Java, Python or Machine learning related topic and algorithms
 
 ---
