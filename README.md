@@ -36,7 +36,7 @@ public class AtaharHossainPiash {
     String   location  = "Bangladesh 🇧🇩";
     String   studying  = "Computer Science & Engineering";
 
-    String[] code      = {"C", "C++", "Java"};
+    String[] code      = {"C", "C++", "Java", "Python"};
     String[] web       = {"HTML5", "CSS3"};
     String[] database  = {"MySQL"};
     String[] design    = {"Adobe Illustrator"};
@@ -54,7 +54,7 @@ public class AtaharHossainPiash {
 </table>
 
 - 🎓 CSE student from Bangladesh, working through the fundamentals
-- 💻 Most at home in **C, C++ and Java**
+- 💻 Most at home in **C, C++, Python and Java**
 - 🗄️ Learning to design and query databases with **MySQL**
 - 🎨 Also draw and design — **Illustrator** is my second IDE
 - 💬 Ask me about C, C++, Java, or basic web with HTML & CSS
