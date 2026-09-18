@@ -128,6 +128,11 @@ public class AtaharHossainPiash {
 
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=drag375o&hide_border=true&background=0D1117&ring=00D0FF&fire=00D0FF&stroke=00D0FF&currStreakLabel=00D0FF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=drag375o&hide_border=true&background=FFFFFF&ring=0969DA&fire=0969DA&stroke=0969DA&currStreakLabel=0969DA&currStreakNum=24292F&sideNums=24292F&sideLabels=24292F&dates=57606A"/>
+  <img height="260" src="https://streak-stats.demolab.com?user=drag375o&hide_border=true" alt="Contribution streak"/>
+</picture>
 
 
 
