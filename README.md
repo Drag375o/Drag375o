@@ -8,7 +8,7 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemV2NXA2cGQ1OTZpenZ3M2U0bjNvZzgxeGc4dGtpcTA5bHpsZDJwbSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/lIzAEoZEn571u/giphy.gif" width="100%" alt="welcome"/>
 
-# Atahar Hossain 
+# Atahar Hossain Piash
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00D0FF&width=560&lines=CSE+student+%26+undergrad+research+assistant;AI+%2F+ML+%7C+NLP+%7C+Computer+Vision+%7C+LLMs;Still+explaining+to+relatives+what+I+study" alt="typing"/>
 
