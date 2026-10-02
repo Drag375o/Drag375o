@@ -166,9 +166,7 @@ public class AtaharHossainPiash {
 ---
 
 
-<p align="center">
-  <img src="./assets/truckpixelart_readme_strip.gif" width="100%" />
-</p>
+<img src="./assets/truckpixelart.gif" width="100%" alt="welcome"/>
 
 
 
