@@ -3,7 +3,6 @@
   README for github.com/drag375o
   Accent colour: #00D0FF  (find/replace to change it globally)
   Everything is left-aligned by design — no align="center" anywhere.
-  
   ════════════════════════════════════════════════════════════
 -->
 
