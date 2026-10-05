@@ -166,11 +166,13 @@ public class AtaharHossainPiash {
 ---
 
 
-<img src="./assets/truckpixelart.gif" width="100%" alt="welcome"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3MwZm5oYjlueDUwYXF6Y2h3a3lqam1lZDI5OGh2cW5waDZldHd2cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/N3yLGQ1oMYfGU/giphy.gif"/>
 
 
 
 <!--
+
+<img src="./assets/truckpixelart.gif" width="100%" alt="welcome"/>
 
 <img src="https://media.giphy.com/media/l19ipdY2pjK3d8Omtz/giphy.gif" width="100%" alt="welcome"/>
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czc2NHZranFnMjB4dmN2YzhuMW45cjE4dmo0czV4eHhyd3I4bnJrZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YMT2uy1xaMWhcX7LYE/giphy.gif"/>
