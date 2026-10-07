@@ -10,6 +10,7 @@
 
 # Atahar Hossain Piash
 
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00D0FF&width=560&lines=CSE+student+%26+undergrad+research+assistant;AI+%2F+ML+%7C+NLP+%7C+Computer+Vision+%7C+LLMs;Still+explaining+to+relatives+what+I+study" alt="typing"/>
 
 <img src="https://komarev.com/ghpvc/?username=drag375o&label=Profile+views&color=00D0FF&style=flat-square" alt="profile views"/>
